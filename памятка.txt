@@ -2,3 +2,4 @@ Model - свойства
 Controllers - строка для подключения (файл MainControllers)
 Service - логика подключения 
 Views - окна
+====================
